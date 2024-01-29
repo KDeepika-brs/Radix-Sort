@@ -4,4 +4,4 @@
 
 ##### Radix Sort has a time complexity of O(nk), where n is the number of elements in the array and k is the number of digits in the longest number. It is a stable sorting algorithm, meaning that the relative order of equal elements is preserved in the sorted output.
 
-#### Dear Students, Check out the live app [here].(https://kdeepika-brs.github.io/Radix-Sort/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Radix-Sort/).
